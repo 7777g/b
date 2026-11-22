@@ -1,0 +1,21 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Your private app data: NEVER upload these
+uploads/
+qdrant_data/
+
+# Secrets
+.env
+.env.*
+
+# Windows and editor
+Thumbs.db
+.vscode/
